@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+ul{
+    list-style-type:none;
+}
+
+li{
+    display: inline;
+    margin-top: 10px;
+    margin-right: 32px;
+    float: right;
+}    
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    font-family: sans-serif;
+}
+.nav{
+    background-color: black;
+    color: li;
+    height: 42px;
+}
+.map{
+    float: right;
+    margin: 12px auto;
+}
+.north{
+    /* width: fit-content; */
+    /* display: inline; */
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}
